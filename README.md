@@ -1,1 +1,2 @@
-# Virtual-Pet-1
+# Virtual pet
+Virtual pet project
